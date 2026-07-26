@@ -79,5 +79,7 @@ Example Response
 ```
 
 If the confidence score is below the predefined threshold, the ticket is flagged as **Needs Human Review** instead of being automatically assigned.
+## FastAPI Swagger UI
 
+![Swagger UI](images/image.png)
 
